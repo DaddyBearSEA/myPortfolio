@@ -17,29 +17,60 @@ For today's lab assignment, you will work independently to create a personal por
 
 ## User Acceptance Tests
 
+[Pushed myPortfolio out to Heroku](https://mmandell.herokuapp.com/index.html)  
+
+**Number and name of feature:** deployed myPorfolio to [Heroku](https://mmandell.herokuapp.com/index.html)  
+
+***Estimate of time needed to complete:*** 30 min
+
+***Start time:*** 2:15pm
+
+***Finish time:*** 3:15pm
+
+***Actual time needed to complete:*** 1 hr
+
 ### Time Estimate
 
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-```
-Number and name of feature: ________________________________
+***Number and name of feature:***
 
-Estimate of time needed to complete: _____
+***Estimate of time needed to complete:***
 
-Start time: _____
+***Start time:***
 
-Finish time: _____
+***Finish time:***
 
-Actual time needed to complete: _____
-```
+***Actual time needed to complete:***
 
 Add this information to your README.
 
 ### Feature #1: Refactor the CSS 
 
+***Number and name of feature:***
+
+***Estimate of time needed to complete:***
+
+***Start time:***
+
+***Finish time:***
+
+***Actual time needed to complete:***
+
 #### Why are we implementing this feature?
 
 - As a user, I want the portfolio to have a clean UI so that it is visually appealing.
+
+***Number and name of feature:***
+
+***Estimate of time needed to complete:***
+
+***Start time:***
+
+***Finish time:***
+
+***Actual time needed to complete:***
+
 
 #### What are we going to implement?
 
@@ -47,10 +78,31 @@ Given that a user opens the application in the browser
 When the user navigates to the home page  
 Then the portfolio contents should be displayed  
 
+***Number and name of feature:***
+
+***Estimate of time needed to complete:***
+
+***Start time:***
+
+***Finish time:***
+
+***Actual time needed to complete:***
+
 #### How are we implementing it?
 
 - Refactor the `main.css` file using SMACSS principles.
   - You may decide how many files to include, but at the minimum should include  `base.css`, `layout.css`, and `modules.css`. However, think through the way you separate your CSS rules. For example, you may want several CSS files in a `modules` folder, if you feel that the code needs to be organized in that manner.
+
+***Number and name of feature:***
+
+***Estimate of time needed to complete:***
+
+***Start time:***
+
+***Finish time:***
+
+***Actual time needed to complete:***
+
 
 ### Feature #2: Modify the contents
 
@@ -58,11 +110,24 @@ Then the portfolio contents should be displayed
 
 - As a user, I want to view a unique portfolio so that the skills and personality of the developer are portrayed.
 
+***Number and name of feature:***
+
+***Estimate of time needed to complete:***
+
+***Start time:***
+
+***Finish time:***
+
+***Actual time needed to complete:***
+
+
 #### What are we going to implement?
 
 Given that a user opens the application in the browser  
 When the user navigates to the home page  
 Then the content should be unique and reflect the skills and personality of the developer  
+
+
 
 #### How are we implementing it?
 
